@@ -30,7 +30,7 @@ print(inverse)
 #RegisterNumber:212223110060
 ```
 ## Output:
-## Program:![Screenshot 2024-04-01 122133](https://github.com/Tomfx03/INVERSE-OF-A-MATRIX/assets/101335832/d39f38ac-99fe-49ec-b189-d1c50e8b0c6b)
+![Screenshot 2024-04-01 122133](https://github.com/Tomfx03/INVERSE-OF-A-MATRIX/assets/101335832/d39f38ac-99fe-49ec-b189-d1c50e8b0c6b)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
